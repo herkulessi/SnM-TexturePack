@@ -1,0 +1,13 @@
+{ 
+  "pack": {
+    "pack_format": 7,
+    "description": "A SnM-inspired TexturePack.\nPlaySwordsAndMagic.com"
+  },
+  "language": {
+    "LANG_COUNTRY": {
+      "name": "My Custom Language",
+      "region": "Country/Region name",
+      "bidirectional": false
+    }
+  }
+}
